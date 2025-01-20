@@ -1,6 +1,6 @@
 ### Hi there! 👋
-#### I am Gonzalo, a 19 years old entrepreneur & developer from Argentina.
-#### Currently working on [Stream Finance](https://streamprotocol.money).
+#### I am Gonzalo, a 20 years old entrepreneur & developer from Argentina.
+#### Currently working on [Klyra Protocol](https://klyra.com).
 
 #### :chains: Web3:
 - [POAPSlider](https://poapslider.vercel.app): An app to display your (or any address you want) POAPs in a cool looking way.
@@ -11,7 +11,7 @@
 #### Projects developed by LectO (along with three friends):
 - [LectO](https://lecto.app)
   - :page_facing_up: Free text editor specially designed for people with dyslexia that makes reading and writing easier by using colors, pictograms, and listening resources. 
-  - :arrow_down: 5k+ downloads in 35+ countries. 
+  - :arrow_down: 10k+ downloads in 35+ countries. 
   - :trophy: Received two Sadosky Awards in 2020 for Digital Inclusion and Community Award.
   - :hammer: Next.js, React, Draft.js, SCSS, Node.js, Express.
 - [LectO Screening](https://test.lecto.app)
